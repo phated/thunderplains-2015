@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://thunderplainsconf.com/sponsorship.html</loc>
+    <lastmod>2015-07-27T16:55:24.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thunderplainsconf.com/index.html</loc>
+    <lastmod>2015-07-27T16:43:06.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://thunderplainsconf.com/speakers/example/entry.html</loc>
     <lastmod>2015-07-27T14:21:42.000Z</lastmod>
   </url>
@@ -12,17 +22,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/index.html</loc>
-    <lastmod>2015-07-27T14:18:20.000Z</lastmod>
-  </url>
-  
-  <url>
     <loc>http://thunderplainsconf.com/speakers/jonathan-yarbor/description.html</loc>
-    <lastmod>2015-07-27T14:17:07.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://thunderplainsconf.com/speakers/pawel-szymczykowski/entry.html</loc>
     <lastmod>2015-07-27T14:17:07.000Z</lastmod>
   </url>
   
@@ -237,7 +237,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/2015/07/27/hello-world/</loc>
+    <loc>http://thunderplainsconf.com/tickets.html</loc>
     <lastmod>2015-07-27T14:17:07.000Z</lastmod>
   </url>
   
@@ -307,7 +307,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/tickets.html</loc>
+    <loc>http://thunderplainsconf.com/2015/07/27/hello-world/</loc>
     <lastmod>2015-07-27T14:17:07.000Z</lastmod>
   </url>
   
@@ -317,7 +317,7 @@
   </url>
   
   <url>
-    <loc>http://thunderplainsconf.com/sponsorship.html</loc>
+    <loc>http://thunderplainsconf.com/speakers/pawel-szymczykowski/entry.html</loc>
     <lastmod>2015-07-27T14:17:07.000Z</lastmod>
   </url>
   
